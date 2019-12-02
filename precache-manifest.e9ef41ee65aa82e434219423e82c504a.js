@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6481568a7dbf77dcb42f839ff60d8413",
+    "revision": "e51b37a45db6c13f72bad0068b5f2e6c",
     "url": "/swarm/index.html"
   },
   {
-    "revision": "09d3f2ad8fa45386e3a5",
+    "revision": "deed16d100e644f1e194",
     "url": "/swarm/static/css/main.8a00231e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swarm/static/js/2.fde1bb29.chunk.js"
   },
   {
-    "revision": "09d3f2ad8fa45386e3a5",
-    "url": "/swarm/static/js/main.7cab7ca3.chunk.js"
+    "revision": "deed16d100e644f1e194",
+    "url": "/swarm/static/js/main.f656e2e3.chunk.js"
   },
   {
     "revision": "01792c9d71ab6dcf502b",
